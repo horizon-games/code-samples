@@ -1,5 +1,5 @@
 import { React } from 'react';
-import { List, ListItem, ListItemAvatar, ListItemText } from '@mui/material';
+import { List, ListItem, ListItemText } from '@mui/material';
 import DeleteIcon from '@mui/icons-material/Delete';
 
 const Task = ({ taskText, onClick }) => {
